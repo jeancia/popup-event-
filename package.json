@@ -1,0 +1,11 @@
+{
+  "name": "popup-event",
+  "version": "0.0.1",
+  "description": "this a popup-event",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Christophe CIATTI",
+  "license": "MIT"
+}
