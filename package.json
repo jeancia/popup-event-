@@ -7,5 +7,9 @@
     "test": ""
   },
   "author": "Christophe CIATTI",
-  "license": "MIT"
+  "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/jeancia"
+  }
 }
