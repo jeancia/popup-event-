@@ -17,6 +17,10 @@ popup-event.welcome("Your message");
 
 Your welcome message in a popup-event, this popup event-translate and reacted for press button
 
+##Result
+
+<a target="_blank" href="http://www.hostingpics.net" title="Hebergeur d'image"><img src="https://img4.hostingpics.net/pics/714142Popup.png" border="0" alt="Hebergeur d'image" /></a>
+
 ##Jeancia author
 
 Jeancia author
