@@ -10,9 +10,9 @@ this package include the javascript and html of the style for popup-event,
 is a possible of custom popup-event
 
 #Code example  
-
+```js
 popup-event.welcome("Your message");
-
+```
 #effect
 
 Your welcome message in a popup-event, this popup event-translate and reacted for press button
