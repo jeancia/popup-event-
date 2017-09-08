@@ -27,4 +27,4 @@ Jeancia author
 
 ##licence
 
-Jeacnia Copyright (c) 2017 All rights reserved.
+Jeancia Copyright (c) 2017 All rights reserved.
